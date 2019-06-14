@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "title":"Task 1",
+            "responsable":"Mark",
+            "descripcion":"lorem ipsum",
+            "priority":"Low"
+        },
+        {
+            "title":"Task 2",
+            "responsable":"Jhon",
+            "descripcion":"lorem ipsum2",
+            "priority":"Medium"
+        },
+        {
+            "title":"Task 3",
+            "responsable":"Joaquin",
+            "descripcion":"lorem ipsum3",
+            "priority":"High"
+        },
+        {
+            "title":"Task 4",
+            "responsable":"Hermenejildo",
+            "descripcion":"lorem ipsum4",
+            "priority":"Medium"
+        }
+    ]
+}
